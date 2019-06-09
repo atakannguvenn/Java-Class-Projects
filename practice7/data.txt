@@ -1,0 +1,4 @@
+Assested value:            $ 100000.00
+Taxable amount:            $  92000.00
+Tax Rate for each $100.00: $      1.05
+Property tax:              $    966.00
